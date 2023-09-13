@@ -1,2 +1,2 @@
 # locadora
-Trabalho de fazer um simples sistema de locadora para registro de clientes, filmes e empréstimos. Usando JavaFX
+Crud para locadora para registro de clientes, filmes e empréstimos. Usando de Java e JavaFX
