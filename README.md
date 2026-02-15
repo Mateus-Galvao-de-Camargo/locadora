@@ -1,6 +1,6 @@
 # Locadora
 
-Projeto em dupla com Nefi Lopez
+Feito junto com Nefi Lopez, @nefilj no Instagram.
 
 ## Funcionalidades
 
@@ -11,13 +11,13 @@ Projeto em dupla com Nefi Lopez
 
 ## Tecnologias Utilizadas
 
-- Java
-- JavaFX
-- MySQL
+- Java - backend
+- JavaFX - frontend
+- MySQL - banco de dados
   
 ## Pré-requisitos
 
-- Java 8 ou superior
+- Java 8
 
 ## Instalação
 
@@ -41,8 +41,3 @@ Projeto em dupla com Nefi Lopez
     ```sh
     java -cp bin com.nefi.mateus.menu.Menu
     ```
-    
-## Como Usar
-
-1. Execute a aplicação conforme descrito na seção de instalação.
-2. A interface gráfica será exibida, permitindo o registro, listagem e edição de clientes, filmes e empréstimos.
